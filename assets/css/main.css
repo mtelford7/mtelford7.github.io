@@ -1554,6 +1554,11 @@
 		background: #fff;
 	}
 
+	.column {
+		float: left;
+		width: 50%;
+	}
+
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -2237,7 +2242,7 @@
 				ul.labeled-icons li h3 {
 					color: #b2b2b2;
 					display: inline-block;
-					padding-right: 1em
+					padding-right: 1em;
 					position: absolute;
 					text-align: center;
 					top: 0;

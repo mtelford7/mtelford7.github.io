@@ -2218,7 +2218,7 @@
 					ul.actions.fit.small li {
 						padding: 0 0 0 0.5em;
 					}
-
+/*
 		ul.labeled-icons {
 			list-style: none;
 			padding: 0;
@@ -2249,6 +2249,40 @@
 					top: 0;
 
 				}
+*/
+		ul.labeled-icons {
+			list-style: none;
+			padding: 0;
+		}
+
+		ul.labeled-icons li {
+			line-height: 10px;
+			margin: -20px 0 0 0;
+			padding-left: 2em; /* Adjusted padding */
+			position: relative;
+		}
+
+		ul.labeled-icons li:first-child {
+			margin-top: 0;
+		}
+
+		ul.labeled-icons li a {
+			color: inherit;
+			margin-left: 0.5em;
+		}
+
+		ul.labeled-icons li h3 {
+			color: #b2b2b2;
+			display: inline-block;
+			padding-right: 1.5em;
+			position: absolute;
+			text-align: center;
+			top: 0;
+			line-height: 1.75em; /* Adjusted line-height */
+			margin-right: 0.5em; /* Adjusted margin-right */
+		}
+
+
 
 	dl {
 		margin: 0 0 2em 0;
@@ -3024,7 +3058,7 @@
 			}
 
 		/* List */
-
+/*			
 			ul.labeled-icons li {
 				padding-left: 2em;
 			}
@@ -3033,6 +3067,7 @@
 					line-height: 1.75em;
 					margin-right: 0.5em;
 				}
+*/
 
 		/* Header */
 

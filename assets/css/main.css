@@ -2280,6 +2280,7 @@
 			top: 0;
 			line-height: 1.75em; /* Adjusted line-height */
 			margin-right: 0.5em; /* Adjusted margin-right */
+			margin-left: -0.5em;
 		}
 
 

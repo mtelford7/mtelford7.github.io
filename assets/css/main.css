@@ -2277,9 +2277,9 @@
 			padding-right: 1.5em;
 			position: absolute;
 			text-align: center;
-			top: 0;
+			top: -5px;
 			line-height: 1.75em; /* Adjusted line-height */
-			margin-left: -2.5em;
+			margin-left: -3em;
 		}
 
 

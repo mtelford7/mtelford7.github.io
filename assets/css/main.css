@@ -2257,7 +2257,7 @@
 
 		ul.labeled-icons li {
 			line-height: 10px;
-			margin: -20px 0 0 -0.5em;
+			margin: 0;
 			padding-left: 2em; /* Adjusted padding */
 			position: relative;
 		}
@@ -2279,8 +2279,7 @@
 			text-align: center;
 			top: 0;
 			line-height: 1.75em; /* Adjusted line-height */
-			margin-right: 0.5em; /* Adjusted margin-right */
-			margin-left: -0.5em;
+			margin-left: -2.5em;
 		}
 
 
